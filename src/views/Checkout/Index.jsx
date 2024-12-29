@@ -1,5 +1,5 @@
 import { useShoppingCartContext } from "../../context/ShoppingCartContext";
-import FormData from "../../components/FormData";
+import FormData from "../../components/FormData/Index";
 import { Link } from "react-router-dom";
 
 const Index = () => {
